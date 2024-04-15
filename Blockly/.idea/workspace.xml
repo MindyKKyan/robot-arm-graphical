@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76001a2-8fe0-45ef-be99-7f82cf721b1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/views/blockly/blocklyView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/blockly/blocklyView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/views/blockly/blocklyView.vue" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QrlrSZSBZgIgY7nEf2iM2x7yAC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fyc/Desktop/blockly-for-robot-dev_ybc/src/views&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/fyc/Desktop/blockly-for-robot-dev_ybc/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76001a2-8fe0-45ef-be99-7f82cf721b1b" name="Changes" comment="" />
+      <created>1686119779548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686119779548</updated>
+      <workItem from="1686119781175" duration="2955000" />
+      <workItem from="1686123044183" duration="6854000" />
+      <workItem from="1686206870736" duration="2065000" />
+      <workItem from="1686214420673" duration="33152000" />
+      <workItem from="1686642350249" duration="34115000" />
+      <workItem from="1688906869576" duration="1570000" />
+      <workItem from="1688967333006" duration="222000" />
+      <workItem from="1689748894654" duration="399000" />
+      <workItem from="1690961375434" duration="639000" />
+      <workItem from="1691045645723" duration="6615000" />
+      <workItem from="1691635265022" duration="17567000" />
+      <workItem from="1694240891698" duration="2361000" />
+      <workItem from="1694328355532" duration="573000" />
+      <workItem from="1694588126492" duration="1645000" />
+      <workItem from="1695808443618" duration="598000" />
+      <workItem from="1695865511376" duration="967000" />
+      <workItem from="1696641807033" duration="1615000" />
+      <workItem from="1696647593024" duration="598000" />
+      <workItem from="1697983845821" duration="1207000" />
+      <workItem from="1698847560302" duration="14524000" />
+      <workItem from="1698974762517" duration="6058000" />
+      <workItem from="1699630889039" duration="1489000" />
+      <workItem from="1701222872801" duration="8134000" />
+      <workItem from="1701341669851" duration="9786000" />
+      <workItem from="1701420040160" duration="7408000" />
+      <workItem from="1701484951293" duration="15869000" />
+      <workItem from="1701743886464" duration="8753000" />
+      <workItem from="1701875142417" duration="1685000" />
+      <workItem from="1701914335359" duration="6791000" />
+      <workItem from="1701947253606" duration="6088000" />
+      <workItem from="1701999919644" duration="2551000" />
+      <workItem from="1702003513429" duration="3776000" />
+      <workItem from="1702026175422" duration="3226000" />
+      <workItem from="1702029417248" duration="387000" />
+      <workItem from="1702029809091" duration="831000" />
+      <workItem from="1702030646283" duration="82000" />
+      <workItem from="1702030731884" duration="6839000" />
+      <workItem from="1702041431319" duration="1696000" />
+      <workItem from="1702092023299" duration="6196000" />
+      <workItem from="1702107870165" duration="39000" />
+      <workItem from="1702107912805" duration="80000" />
+      <workItem from="1702108060775" duration="95000" />
+      <workItem from="1702108163425" duration="14368000" />
+      <workItem from="1702169700629" duration="300000" />
+      <workItem from="1702173367011" duration="16501000" />
+      <workItem from="1702225089173" duration="7052000" />
+      <workItem from="1702260986003" duration="26910000" />
+      <workItem from="1702348806028" duration="12846000" />
+      <workItem from="1703424538761" duration="780000" />
+      <workItem from="1704422769268" duration="6629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
